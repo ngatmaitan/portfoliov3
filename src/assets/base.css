@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --vt-c-white: #ffffff;
+  --vt-c-white-soft: #f8f8f8;
+  --vt-c-white-mute: #f2f2f2;
+
+  --vt-c-black: #000000;
+  --vt-c-black-soft: #222222;
+  --vt-c-black-mute: #282828;
+
+  --vt-c-indigo: #2c3e50;
+
+  --vt-c-background-light: #f7f7ed;
+  --vt-c-background-dark: #121208;
+  --vt-c-primary-light: #ff8680;
+  --vt-c-primary-dark: #800600;
+  --vt-c-secondary-light: #00c5cc;
+  --vt-c-secondary-dark: #33f8ff;
+  --vt-c-accent-light: #b3fa47;
+  --vt-c-accent-dark: #70b805;
+
+  --vt-c-divider-light-1: rgba(60, 60, 60, 0.29);
+  --vt-c-divider-light-2: rgba(60, 60, 60, 0.12);
+  --vt-c-divider-dark-1: rgba(84, 84, 84, 0.65);
+  --vt-c-divider-dark-2: rgba(84, 84, 84, 0.48);
+
+  --vt-c-text-light-1: var(--vt-c-black);
+  --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
+  --vt-c-text-dark-1: var(--vt-c-white);
+  --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+}
+
+/* semantic color variables for this project */
+:root {
+  --color-background: var(--vt-c-background-light);
+  --color-background-soft: var(--vt-c-white-soft);
+  --color-background-mute: var(--vt-c-white-mute);
+
+  --color-border: var(--vt-c-divider-light-2);
+  --color-border-hover: var(--vt-c-divider-light-1);
+
+  --color-heading: var(--vt-c-primary-light);
+  --color-text: var(--vt-c-black);
+  --color-link: var(--vt-c-secondary-light);
+
+  --section-gap: 160px;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: var(--vt-c-background-dark);
+    --color-background-soft: var(--vt-c-black-soft);
+    --color-background-mute: var(--vt-c-black-mute);
+
+    --color-border: var(--vt-c-divider-dark-2);
+    --color-border-hover: var(--vt-c-divider-dark-1);
+
+    --color-heading: var(--vt-c-primary-dark);
+    --color-text: var(--vt-c-white);
+    --color-link: var(--vt-c-secondary-dark);
+  }
+} */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.5;
+  font-family: 'Raleway', serif;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border-bottom: 15px solid var(--color-heading);
+}
+
+h1,
+h2 {
+  color: var(--color-heading);
+  text-transform: uppercase;
+  font-family: 'Anonymous Pro', serif;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Raleway', serif;
+}
+
+h3 {
+  color: var(--color-heading);
+  font-weight: 700;
+}
+
+h4 {
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+a {
+  color: var(--color-link);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(180, 100%, 37%, 0.2);
+  }
+}

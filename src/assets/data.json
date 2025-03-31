@@ -1,0 +1,255 @@
+[
+  [
+    {
+      "sectionHeading": "About",
+      "sectionBody": [
+        {
+          "id": 0,
+          "text": "I'm a Front-End Developer specializing in React.js, JavaScript (ES6+), and UI/UX design, with a passion for building scalable, high-performance web applications. I have led front-end development efforts across multiple projects, collaborating with designers, developers, and stakeholders to create seamless digital experiences."
+        },
+        {
+          "id": 1,
+          "text": "Beyond coding, I enjoy solving complex problems, streamlining processes, and fostering collaboration across teams. I thrive in fast-paced environments where I can drive innovation, improve efficiency, and create meaningful digital experiences. As I grow in my career, I’m focused on developing leadership skills and making a broader impact on product and team success."
+        },
+        {
+          "id": 2,
+          "text": "Outside of work, you’ll find me at Pilates, lifting at the gym, getting lost in a good book, or crocheting something new. I also love spending time with my husband and two dogs, going to concerts, and hanging out with friends and family."
+        }
+      ]
+    },
+    {
+      "sectionHeading": "Key Compentencies",
+      "subsectionData": [
+        {
+          "id": 0,
+          "subsectionBody": [
+            {
+              "id": 0,
+              "text": "Front-End Development: <br> Experienced in building scalable and responsive web applications using React.js, JavaScript (ES6+), TypeScript, HTML5, CSS (SCSS, LESS), and Bootstrap 5. Skilled in DOM manipulation, ensuring cross-browser compatibility and optimized performance."
+            },
+            {
+              "id": 1,
+              "text": "UI/UX Design & Prototyping: <br> Proficient in creating intuitive and user-centric interfaces, with experience in wireframing and prototyping using tools like Adobe XD and Balsamiq. Focused on user experience optimization, accessibility (WCAG standards), and visual design consistency."
+            },
+            {
+              "id": 2,
+              "text": "Agile Development & Version Control: <br> Hands-on experience working within Agile and SAFe environments, participating in sprints, stand-ups, and cross-functional collaboration. Skilled in version control using Git, GitHub, and GitLab, with an emphasis on maintaining clean and efficient codebases."
+            },
+            {
+              "id": 3,
+              "text": "Content Management & Email Development: <br> Expertise in CMS integration and customization, along with developing dynamic email templates using Adobe Campaign and Adobe Marketo. Experienced in ensuring brand consistency across both web and email platforms."
+            },
+            {
+              "id": 4,
+              "text": "Project Leadership & Workflow Optimization: <br> Adept at streamlining workflows and optimizing development processes to improve efficiency and product delivery. Experienced in coordinating with stakeholders, designers, and developers to align project goals and technical execution."
+            },
+            {
+              "id": 5,
+              "text": "Mentorship & Team Collaboration: <br> Passionate about mentoring junior developers and fostering team growth. Skilled in cross-functional collaboration, working closely with designers, product managers, and developers to deliver cohesive and user-friendly products."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionHeading": "Contact Details",
+      "sectionBody": [
+        {
+          "id": 0,
+          "text": "<a href=\"mailto:ngatmaitan@gmail.com\" target=\"_blank\">Email</a>"
+        },
+        {
+          "id": 1,
+          "text": "<a href=\"https://www.linkedin.com/in/ngatmaitan/\" target=\"_blank\">LinkedIn</a>"
+        },
+        {
+          "id": 2,
+          "text": "<a href=\"https://github.com/ngatmaitan\" target=\"_blank\">Github</a>"
+        },
+        {
+          "id": 2,
+          "text": "<a href=\"/files/Gatmaitan_Resume.pdf\" target=\"_blank\">Resume</a>"
+        }
+      ]
+    },
+    {
+      "sectionHeading": "Academic Background",
+      "subsectionData": [
+        {
+          "id": 0,
+          "subsectionHeading": "Southern Methodist University",
+          "subsectionSubheading": "Bachelor of Science | May 2016",
+          "subsectionBody": [
+            {
+              "id": 0,
+              "text": "Bachelor of Science In Computer Science"
+            },
+            {
+              "id": 1,
+              "text": "Awarded SMU Memorial Scholarship, Multicultural Academic Achievement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionHeading": "Volunteer Work",
+      "subsectionData": [
+        {
+          "id": 0,
+          "subsectionHeading": "Freelance Graphic Designer",
+          "subsectionSubheading": "SMU Office of Multicultural Student Affairs (OMSA) | September 2013 – April 2015",
+          "subsectionBody": [
+            {
+              "id": 0,
+              "text": "Collaborated with five student organizations to design custom marketing materials aimed at increasing event attendance and campus awareness."
+            },
+            {
+              "id": 1,
+              "text": "Designed physical and digital posters for annual events, ensuring high visibility and engagement within the SMU student body."
+            },
+            {
+              "id": 2,
+              "text": "Created branded t-shirts for the East Asian Student Association and Asian Council using Photoshop and Illustrator, strengthening their campus presence."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sectionHeading": "Professional Experience",
+      "subsectionData": [
+        {
+          "id": 0,
+          "subsectionHeading": "Front-End Developer",
+          "subsectionSubheading": "Accenture | August 2021 - Present",
+          "subsectionBody": [
+            {
+              "id": 0,
+              "text": "Led front-end development for multiple projects, designing and implementing scalable web solutions while collaborating with cross-functional teams. Took ownership of UI/UX development, preparing wireframes, gathering requirements, and delivering intuitive interfaces that improved user experience and stakeholder satisfaction."
+            },
+            {
+              "id": 1,
+              "text": "Stepped in at critical points to accelerate project timelines, optimizing workflows, streamlining processes, and ensuring high-quality deliverables across multiple workstreams."
+            },
+            {
+              "id": 2,
+              "text": "Developed and presented UI/UX prototypes and demos to senior stakeholders, influencing design decisions and driving adoption of modern front-end solutions."
+            },
+            {
+              "id": 3,
+              "text": "Mentored junior team members and offshore developers, providing guidance on best practices and fostering a collaborative development environment."
+            },
+            {
+              "id": 4,
+              "text": "* Utilized React.js, JavaScript (ES6+), TypeScript, HTML5, CSS (SCSS), Bootstrap 5, Redux, Adobe Campaign, Adobe Marketo, Git, and Visual Studio Code to develop and optimize web applications."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "subsectionHeading": "Salesforce CloudCraze Front End Developer",
+          "subsectionSubheading": "IBM | September 2019 - July 2021",
+          "subsectionBody": [
+            {
+              "id": 0,
+              "text": "Led front-end development for multiple projects, designing and implementing scalable web solutions while collaborating with cross-functional teams. Took ownership of UI/UX development, preparing wireframes, gathering requirements, and delivering intuitive interfaces that improved user experience and stakeholder satisfaction."
+            },
+            {
+              "id": 1,
+              "text": "Stepped in at critical points to accelerate project timelines, optimizing workflows, streamlining processes, and ensuring high-quality deliverables across multiple workstreams."
+            },
+            {
+              "id": 2,
+              "text": "Developed and presented UI/UX prototypes and demos to senior stakeholders, influencing design decisions and driving adoption of modern front-end solutions."
+            },
+            {
+              "id": 3,
+              "text": "Mentored junior team members and offshore developers, providing guidance on best practices and fostering a collaborative development environment."
+            },
+            {
+              "id": 4,
+              "text": "Utilized React.js, JavaScript (ES6+), TypeScript, HTML5, CSS (SCSS), Bootstrap 5, Redux, Adobe Campaign, Adobe Marketo, Git, and Visual Studio Code to develop and optimize web applications."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "subsectionHeading": "Associate Web Designer",
+          "subsectionSubheading": "Yardi Systems | October 2016 - August 2019",
+          "subsectionBody": [
+            {
+              "id": 0,
+              "text": "Led full onboarding for 1 new team member and assisted in onboarding 3 additional team members, streamlining knowledge transfer and improving team productivity."
+            },
+            {
+              "id": 1,
+              "text": "Served as a front-end technology subject matter expert, providing technical guidance and collaborating with adjacent teams to enhance project execution."
+            },
+            {
+              "id": 2,
+              "text": "Transitioned from ad hoc website updates to developing standardized template designs, improving efficiency and consistency across projects."
+            },
+            {
+              "id": 3,
+              "text": "Integrated a strategic client’s third-party mockup into the company's content management system, ensuring seamless compatibility for a real estate portfolio of over 52,500 units across the US and Canada."
+            },
+            {
+              "id": 4,
+              "text": "Migrated multiple legacy website designs to modern frameworks, enhancing performance, responsiveness, and maintainability."
+            },
+            {
+              "id": 5,
+              "text": "Utilized Bootstrap, LESS, jQuery, and HTML5 to build dynamic and visually appealing web experiences."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionHeading": "Early Experience",
+      "subsectionData": [
+        {
+          "id": 0,
+          "subsectionHeading": "Student Assistant",
+          "subsectionSubheading": "SMU Meadows School of the Arts | February 2013 – May 2016",
+          "subsectionBody": [
+            {
+              "id": 0,
+              "text": "Supported faculty by preparing learning materials and assisting with lesson plans."
+            },
+            {
+              "id": 1,
+              "text": "Provided administrative support for admissions, alumni relations, and academic departments."
+            },
+            {
+              "id": 2,
+              "text": "Managed interoffice communication and streamlined document organization, improving response efficiency."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "subsectionHeading": "Digital Designer / Web Designer Intern",
+          "subsectionSubheading": "Skystream Digital Technology | June 2015 - August 2015",
+          "subsectionBody": [
+            {
+              "id": 0,
+              "text": "Designed and developed responsive websites using WordPress, enhancing brand presence and usability."
+            },
+            {
+              "id": 1,
+              "text": "Created SEO-optimized content, improving search visibility and engagement."
+            },
+            {
+              "id": 2,
+              "text": "Analyzed web performance data and provided strategic recommendations to improve site traffic and business operations."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+]
